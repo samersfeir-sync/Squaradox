@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.YourCompany.Squaradox.OBBDownloaderService;
-import com.YourCompany.Squaradox.DownloaderActivity;
+import com.wecansync.squaradox.OBBDownloaderService;
+import com.wecansync.squaradox.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.Squaradox.OBBData;
+import com.wecansync.squaradox.OBBData;
 
 
 public class DownloadShim

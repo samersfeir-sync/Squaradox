@@ -512,222 +512,381 @@
 "../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 511
 "../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 512
 "../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 513
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 514
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 515
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 516
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 517
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 518
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 519
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 520
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 521
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 522
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 523
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 524
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 525
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 526
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 527
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 528
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 529
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 530
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 531
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 532
-"../../../Engine/Content/EngineFonts/Roboto.uexp" 533
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 534
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 535
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 536
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 537
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 538
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 539
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 540
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 541
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 542
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 543
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 544
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 545
-"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 546
-"../../../Engine/Content/EditorResources/S_Terrain.uasset" 547
-"../../../Engine/Content/EditorResources/S_Terrain.uexp" 548
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 549
-"../../../Engine/Content/EditorResources/BSPVertex.uexp" 550
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 551
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 552
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 553
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 554
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 555
-"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 556
-"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uexp" 557
-"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 558
-"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uexp" 559
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 560
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 561
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 562
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 563
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 564
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 565
-"../../../Engine/Content/BasicShapes/Sphere.ubulk" 566
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 567
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 568
-"../../../Engine/Content/BasicShapes/Plane.ubulk" 569
-"../../../Engine/Content/BasicShapes/Plane.uasset" 570
-"../../../Engine/Content/BasicShapes/Plane.uexp" 571
-"../../../Engine/Content/BasicShapes/Cylinder.ubulk" 572
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 573
-"../../../Engine/Content/BasicShapes/Cylinder.uexp" 574
-"../../../Engine/Content/BasicShapes/Cube.ubulk" 575
-"../../../Engine/Content/BasicShapes/Cube.uasset" 576
-"../../../Engine/Content/BasicShapes/Cube.uexp" 577
-"../../../Engine/Content/BasicShapes/Cone.ubulk" 578
-"../../../Engine/Content/BasicShapes/Cone.uasset" 579
-"../../../Engine/Content/BasicShapes/Cone.uexp" 580
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 581
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 582
-"../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uasset" 583
-"../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uexp" 584
-"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 585
-"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 586
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 587
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uexp" 588
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 589
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uexp" 590
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Small_Cat.uasset" 591
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Small_Cat.uexp" 592
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/2_Huskies.uasset" 593
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/2_Huskies.uexp" 594
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/2_Horses.uasset" 595
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/2_Horses.uexp" 596
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/puzzle_banjo.ubulk" 597
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/puzzle_banjo.uasset" 598
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/puzzle_banjo.uexp" 599
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/PuzzlesInProgressStruct.uasset" 600
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/PuzzlesInProgressStruct.uexp" 601
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/PuzzlesCompletedStruct.uasset" 602
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/PuzzlesCompletedStruct.uexp" 603
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Enums/Categories.uasset" 604
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Enums/Categories.uexp" 605
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/CategoryDataStruct.uasset" 606
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/CategoryDataStruct.uexp" 607
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Interfaces/GameInstanceInterface.uasset" 608
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Interfaces/GameInstanceInterface.uexp" 609
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/GameSave_BP.uasset" 610
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/GameSave_BP.uexp" 611
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Interfaces/GameSaveInterface.uasset" 612
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Interfaces/GameSaveInterface.uexp" 613
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/White_Rabbit.uasset" 614
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/White_Rabbit.uexp" 615
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/2_Deers.uasset" 616
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/2_Deers.uexp" 617
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Panda.uasset" 618
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Panda.uexp" 619
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/puzzle_test.ubulk" 620
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/puzzle_test.uasset" 621
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/puzzle_test.uexp" 622
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/GameInfoInstance.uasset" 623
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/GameInfoInstance.uexp" 624
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 625
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 626
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 627
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 628
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 629
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 630
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 631
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 632
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 633
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 634
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 635
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 636
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 637
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 638
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 639
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 640
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 641
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 642
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 643
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 644
-"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 645
-"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 646
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 647
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 648
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 649
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 650
-"../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uasset" 651
-"../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uexp" 652
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 653
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 654
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 655
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 656
-"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uasset" 657
-"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uexp" 658
-"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uasset" 659
-"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uexp" 660
-"../../../Engine/Content/EngineMaterials/Substrate/GLints2/AGlintTex2dArray2.uasset" 661
-"../../../Engine/Content/EngineMaterials/Substrate/GLints2/AGlintTex2dArray2.uexp" 662
-"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uasset" 663
-"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uexp" 664
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Materials/Puzzle_M.uasset" 665
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Materials/Puzzle_M.uexp" 666
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Materials/Puzzle_M_Inst.uasset" 667
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Materials/Puzzle_M_Inst.uexp" 668
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/PuzzlePieceDragUI_WB.uasset" 669
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/PuzzlePieceDragUI_WB.uexp" 670
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Interfaces/GamePlayGMInterface.uasset" 671
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Interfaces/GamePlayGMInterface.uexp" 672
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Interfaces/DragAndDropInterface.uasset" 673
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Interfaces/DragAndDropInterface.uexp" 674
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/PuzzleDragDrop_BP.uasset" 675
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/PuzzleDragDrop_BP.uexp" 676
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/Puzzle_Piece_WB.uasset" 677
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/Puzzle_Piece_WB.uexp" 678
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/Puzzle_Slot_WB.uasset" 679
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/Puzzle_Slot_WB.uexp" 680
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/Pieces-Row-ColumnStruct.uasset" 681
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/Pieces-Row-ColumnStruct.uexp" 682
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/PiecesTray_WB.uasset" 683
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/PiecesTray_WB.uexp" 684
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/Puzzle_WB.uasset" 685
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/Puzzle_WB.uexp" 686
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Correct_Sound.ubulk" 687
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Correct_Sound.uasset" 688
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Correct_Sound.uexp" 689
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/GamePlay_GM.uasset" 690
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/GamePlay_GM.uexp" 691
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Maps/PuzzleMap.uexp" 692
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Maps/PuzzleMap.umap" 693
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_22.uasset" 694
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_22.uexp" 695
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/Difficulty_Page_PuzzleImage_WB.uasset" 696
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/Difficulty_Page_PuzzleImage_WB.uexp" 697
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_undo.uasset" 698
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_undo.uexp" 699
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_26.uasset" 700
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_26.uexp" 701
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_42.uasset" 702
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_42.uexp" 703
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_61.uasset" 704
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_61.uexp" 705
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Fonts/Star_Cartoon.uexp" 706
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Fonts/Star_Cartoon.uasset" 707
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Fonts/Star_Cartoon.ufont" 708
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Fonts/Star_Cartoon_Font.uasset" 709
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Fonts/Star_Cartoon_Font.uexp" 710
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_61_inverse.uasset" 711
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_61_inverse.uexp" 712
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/ChooseDifficultyPage_WB.uasset" 713
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/ChooseDifficultyPage_WB.uexp" 714
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/Puzzle_Image_MM_WB.uasset" 715
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/Puzzle_Image_MM_WB.uexp" 716
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/GalleryImage_WB.uasset" 717
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/GalleryImage_WB.uexp" 718
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/GalleryButton_WB.uasset" 719
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/GalleryButton_WB.uexp" 720
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/PuzzleCategory_WB.uasset" 721
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/PuzzleCategory_WB.uexp" 722
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/MainMenu_WB.uasset" 723
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/MainMenu_WB.uexp" 724
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/MainMenu_GM.uasset" 725
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/MainMenu_GM.uexp" 726
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Maps/MainMenuMap.uexp" 727
-"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Maps/MainMenuMap.umap" 728
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 729
-"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 730
-"../../../Engine/Content/Maps/Entry.uexp" 731
-"../../../Engine/Content/Maps/Entry.umap" 732
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 514
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 515
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 516
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 517
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 518
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 519
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 520
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 521
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 522
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 523
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 524
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 525
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 526
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 527
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 528
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 529
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 530
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 531
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 532
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 533
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 534
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 535
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 536
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uexp" 537
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 538
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uexp" 539
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 540
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 541
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 542
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 543
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 544
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 545
+"../../../Engine/Content/BasicShapes/Sphere.ubulk" 546
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 547
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 548
+"../../../Engine/Content/BasicShapes/Plane.ubulk" 549
+"../../../Engine/Content/BasicShapes/Plane.uasset" 550
+"../../../Engine/Content/BasicShapes/Plane.uexp" 551
+"../../../Engine/Content/BasicShapes/Cylinder.ubulk" 552
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 553
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 554
+"../../../Engine/Content/BasicShapes/Cube.ubulk" 555
+"../../../Engine/Content/BasicShapes/Cube.uasset" 556
+"../../../Engine/Content/BasicShapes/Cube.uexp" 557
+"../../../Engine/Content/BasicShapes/Cone.ubulk" 558
+"../../../Engine/Content/BasicShapes/Cone.uasset" 559
+"../../../Engine/Content/BasicShapes/Cone.uexp" 560
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 561
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 562
+"../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uasset" 563
+"../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uexp" 564
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 565
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 566
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 567
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uexp" 568
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature13.uasset" 569
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature13.uexp" 570
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Classes/Music_SC.uasset" 571
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Classes/Music_SC.uexp" 572
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Classes/Parent_SC.uasset" 573
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Classes/Parent_SC.uexp" 574
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Classes/SFX_SC.uasset" 575
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Classes/SFX_SC.uexp" 576
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Mixes/UnmuteSFX.uasset" 577
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Mixes/UnmuteSFX.uexp" 578
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Small_Cat.uasset" 579
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Small_Cat.uexp" 580
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Parrot.uasset" 581
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Parrot.uexp" 582
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature6.uasset" 583
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature6.uexp" 584
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/2_Horses.uasset" 585
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/2_Horses.uexp" 586
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Waves/Komiku_-_12_-_Bicycle.ubulk" 587
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Waves/Komiku_-_12_-_Bicycle.uasset" 588
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Waves/Komiku_-_12_-_Bicycle.uexp" 589
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Cues/Komiku_-_12_-_Bicycle_Cue.uasset" 590
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Cues/Komiku_-_12_-_Bicycle_Cue.uexp" 591
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/PuzzlesInProgressStruct.uasset" 592
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/PuzzlesInProgressStruct.uexp" 593
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/PuzzlesCompletedStruct.uasset" 594
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/PuzzlesCompletedStruct.uexp" 595
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/UserPreferences.uasset" 596
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/UserPreferences.uexp" 597
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Enums/Categories.uasset" 598
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Enums/Categories.uexp" 599
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/CategoryDataStruct.uasset" 600
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/CategoryDataStruct.uexp" 601
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Interfaces/GameInstanceInterface.uasset" 602
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Interfaces/GameInstanceInterface.uexp" 603
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature5.uasset" 604
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature5.uexp" 605
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature15.uasset" 606
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature15.uexp" 607
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature7.uasset" 608
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature7.uexp" 609
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature14.uasset" 610
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature14.uexp" 611
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature2.uasset" 612
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature2.uexp" 613
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Chick.uasset" 614
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Chick.uexp" 615
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Mixes/MuteSFX.uasset" 616
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Mixes/MuteSFX.uexp" 617
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature8.uasset" 618
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature8.uexp" 619
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Bee.uasset" 620
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Bee.uexp" 621
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Chicken.uasset" 622
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Chicken.uexp" 623
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/GameSave_BP.uasset" 624
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/GameSave_BP.uexp" 625
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Interfaces/GameSaveInterface.uasset" 626
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Interfaces/GameSaveInterface.uexp" 627
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature4.uasset" 628
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature4.uexp" 629
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature9.uasset" 630
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature9.uexp" 631
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/White_Rabbit.uasset" 632
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/White_Rabbit.uexp" 633
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature3.uasset" 634
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature3.uexp" 635
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature1.uasset" 636
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature1.uexp" 637
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/2_Deers.uasset" 638
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/2_Deers.uexp" 639
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature10.uasset" 640
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature10.uexp" 641
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Monkey.uasset" 642
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Monkey.uexp" 643
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/2_Golden_Retrievers.uasset" 644
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/2_Golden_Retrievers.uexp" 645
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature11.uasset" 646
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature11.uexp" 647
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature12.uasset" 648
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Nature/Nature12.uexp" 649
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Squirrel.uasset" 650
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Squirrel.uexp" 651
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Panda.uasset" 652
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Panda.uexp" 653
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/SmallCat1.uasset" 654
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/SmallCat1.uexp" 655
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Koalas.uasset" 656
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/Koalas.uexp" 657
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark9.uasset" 658
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark9.uexp" 659
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark8.uasset" 660
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark8.uexp" 661
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark7.uasset" 662
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark7.uexp" 663
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark6.uasset" 664
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark6.uexp" 665
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark5.uasset" 666
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark5.uexp" 667
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark4.uasset" 668
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark4.uexp" 669
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark3.uasset" 670
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark3.uexp" 671
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark2.uasset" 672
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark2.uexp" 673
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark15.uasset" 674
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark15.uexp" 675
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark14.uasset" 676
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark14.uexp" 677
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark13.uasset" 678
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark13.uexp" 679
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark12.uasset" 680
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark12.uexp" 681
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark11.uasset" 682
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark11.uexp" 683
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark10.uasset" 684
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark10.uexp" 685
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark1.uasset" 686
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Landmarks/Landmark1.uexp" 687
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Kids/Kids5.uasset" 688
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Kids/Kids5.uexp" 689
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Kids/Kids4.ubulk" 690
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Kids/Kids4.uasset" 691
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Kids/Kids4.uexp" 692
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Kids/Kids3.uasset" 693
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Kids/Kids3.uexp" 694
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Kids/Kids2.uasset" 695
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Kids/Kids2.uexp" 696
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Kids/Kids1.uasset" 697
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Kids/Kids1.uexp" 698
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Fantasy/Fantasy6.ubulk" 699
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Fantasy/Fantasy6.uasset" 700
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Fantasy/Fantasy6.uexp" 701
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Fantasy/Fantasy5.uasset" 702
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Fantasy/Fantasy5.uexp" 703
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Fantasy/Fantasy4.uasset" 704
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Fantasy/Fantasy4.uexp" 705
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Fantasy/Fantasy3.uasset" 706
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Fantasy/Fantasy3.uexp" 707
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Fantasy/Fantasy2.uasset" 708
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Fantasy/Fantasy2.uexp" 709
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Fantasy/Fantasy1.uasset" 710
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Fantasy/Fantasy1.uexp" 711
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/LoryShadow.uasset" 712
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/Animals/LoryShadow.uexp" 713
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/GameInfoInstance.uasset" 714
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/GameInfoInstance.uexp" 715
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 716
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uexp" 717
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 718
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 719
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 720
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 721
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 722
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 723
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 724
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 725
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 726
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 727
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 728
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 729
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 730
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 731
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 732
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 733
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 734
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 735
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 736
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 737
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 738
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 739
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 740
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 741
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 742
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 743
+"../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uasset" 744
+"../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uexp" 745
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 746
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 747
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 748
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 749
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uasset" 750
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uexp" 751
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uasset" 752
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uexp" 753
+"../../../Engine/Content/EngineMaterials/Substrate/GLints2/AGlintTex2dArray2.uasset" 754
+"../../../Engine/Content/EngineMaterials/Substrate/GLints2/AGlintTex2dArray2.uexp" 755
+"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uasset" 756
+"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uexp" 757
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/puzzle_test.ubulk" 758
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/puzzle_test.uasset" 759
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/PuzzleImages/puzzle_test.uexp" 760
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Materials/Puzzle_M.uasset" 761
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Materials/Puzzle_M.uexp" 762
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Materials/Puzzle_M_Inst.uasset" 763
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Materials/Puzzle_M_Inst.uexp" 764
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/PuzzlePieceDragUI_WB.uasset" 765
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/PuzzlePieceDragUI_WB.uexp" 766
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/Puzzle_Slot_WB.uasset" 767
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/Puzzle_Slot_WB.uexp" 768
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_player_pause.uasset" 769
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_player_pause.uexp" 770
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/Pieces-Row-ColumnStruct.uasset" 771
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Structs/Pieces-Row-ColumnStruct.uexp" 772
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/Background.uasset" 773
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/Background.uexp" 774
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Fonts/Star_Cartoon.uexp" 775
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Fonts/Star_Cartoon.uasset" 776
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Fonts/Star_Cartoon.ufont" 777
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Fonts/Star_Cartoon_Font.uasset" 778
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Fonts/Star_Cartoon_Font.uexp" 779
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Waves/back-button.ubulk" 780
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Waves/back-button.uasset" 781
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Waves/back-button.uexp" 782
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Cues/back-button_Cue.uasset" 783
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Cues/back-button_Cue.uexp" 784
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/closeButton.ubulk" 785
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/closeButton.uasset" 786
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/closeButton.uexp" 787
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_music.uasset" 788
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_music.uexp" 789
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Waves/ButtonClick1.ubulk" 790
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Waves/ButtonClick1.uasset" 791
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Waves/ButtonClick1.uexp" 792
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Cues/ButtonClick1_Cue.uasset" 793
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Cues/ButtonClick1_Cue.uexp" 794
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_check.uasset" 795
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_check.uexp" 796
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/ChangeColorButton.uasset" 797
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/ChangeColorButton.uexp" 798
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_undo.uasset" 799
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_undo.uexp" 800
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_music_mute.uasset" 801
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_music_mute.uexp" 802
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_21.uasset" 803
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_21.uexp" 804
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_22.uasset" 805
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_22.uexp" 806
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_23.uasset" 807
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_23.uexp" 808
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_29.uasset" 809
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_29.uexp" 810
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_42.uasset" 811
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_42.uexp" 812
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_47.uasset" 813
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_47.uexp" 814
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_volume_off.uasset" 815
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_volume_off.uexp" 816
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_volume_on.uasset" 817
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_volume_on.uexp" 818
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/Settings_WB.uasset" 819
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/Settings_WB.uexp" 820
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/Puzzle_WB.uasset" 821
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/Puzzle_WB.uexp" 822
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Interfaces/GamePlayGMInterface.uasset" 823
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Interfaces/GamePlayGMInterface.uexp" 824
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Interfaces/DragAndDropInterface.uasset" 825
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/Interfaces/DragAndDropInterface.uexp" 826
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/PuzzleDragDrop_BP.uasset" 827
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/PuzzleDragDrop_BP.uexp" 828
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/Puzzle_Piece_WB.uasset" 829
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/Puzzle_Piece_WB.uexp" 830
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 831
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 832
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 833
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 834
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 835
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 836
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 837
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 838
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 839
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 840
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 841
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 842
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 843
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 844
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 845
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 846
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 847
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 848
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 849
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 850
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Waves/Correct_Sound.ubulk" 851
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Waves/Correct_Sound.uasset" 852
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Sounds/Waves/Correct_Sound.uexp" 853
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/GameWon_WB.uasset" 854
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/GamePlay/GameWon_WB.uexp" 855
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/GamePlay_GM.uasset" 856
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/GamePlay_GM.uexp" 857
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Maps/PuzzleMap.uexp" 858
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Maps/PuzzleMap.umap" 859
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_22.uasset" 860
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Icons/T_Icon_22.uexp" 861
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_61_inverse.uasset" 862
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_61_inverse.uexp" 863
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/Difficulty_Page_PuzzleImage_WB.uasset" 864
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/Difficulty_Page_PuzzleImage_WB.uexp" 865
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/ItemIcons/T_Power.uasset" 866
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/ItemIcons/T_Power.uexp" 867
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_26.uasset" 868
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_26.uexp" 869
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_61.uasset" 870
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/MobileUIKit/Buttons/T_Button_61.uexp" 871
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/ChooseDifficultyPage_WB.uasset" 872
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/ChooseDifficultyPage_WB.uexp" 873
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/Puzzle_Image_MM_WB.uasset" 874
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/Puzzle_Image_MM_WB.uexp" 875
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/GalleryImage_WB.uasset" 876
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/GalleryImage_WB.uexp" 877
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/GalleryButton_WB.uasset" 878
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/GalleryButton_WB.uexp" 879
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/PuzzleCategory_WB.uasset" 880
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/PuzzleCategory_WB.uexp" 881
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/MainMenu_WB.uasset" 882
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/UI/MainMenu/MainMenu_WB.uexp" 883
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/MainMenu_GM.uasset" 884
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Blueprints/GameLogic/MainMenu_GM.uexp" 885
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Maps/MainMenuMap.uexp" 886
+"C:/Users/User/Documents/Unreal Projects/Squaradox/Content/Maps/MainMenuMap.umap" 887
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 888
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 889
+"../../../Engine/Content/Maps/Entry.uexp" 890
+"../../../Engine/Content/Maps/Entry.umap" 891
