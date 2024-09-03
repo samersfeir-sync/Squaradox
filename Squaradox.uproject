@@ -42,10 +42,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "LocationServicesBPLibrary",
-			"Enabled": false
-		},
-		{
 			"Name": "ProjectCleaner",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4d7f5dc837fc4b009bb91e678adf9fd0"
@@ -160,10 +156,6 @@
 		},
 		{
 			"Name": "BlendSpaceMotionAnalysis",
-			"Enabled": false
-		},
-		{
-			"Name": "BlueprintHeaderView",
 			"Enabled": false
 		},
 		{
@@ -386,10 +378,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "MobilePatchingUtils",
-			"Enabled": false
-		},
-		{
 			"Name": "WebMMoviePlayer",
 			"Enabled": false
 		},
@@ -458,15 +446,7 @@
 			"Enabled": false
 		},
 		{
-			"Name": "PropertyAccessNode",
-			"Enabled": false
-		},
-		{
 			"Name": "RigVM",
-			"Enabled": false
-		},
-		{
-			"Name": "PropertyAccessEditor",
 			"Enabled": false
 		},
 		{
@@ -574,6 +554,18 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
+		},
+		{
+			"Name": "BlueprintHeaderView",
+			"Enabled": false
+		},
+		{
+			"Name": "MobilePatchingUtils",
+			"Enabled": false
+		},
+		{
+			"Name": "LocationServicesBPLibrary",
+			"Enabled": false
 		}
 	]
 }
